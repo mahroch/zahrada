@@ -1,6 +1,6 @@
 #!/bin/bash
 # Auto-sync Obsidian vault to GitHub
-cd /Users/maros/Zahrada || exit 1
+cd "/Users/maros/Library/Mobile Documents/iCloud~md~obsidian/Documents/Zahrada" || exit 1
 
 # Pull latest changes first
 git pull --rebase --autostash origin main 2>/dev/null

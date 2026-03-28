@@ -14,3 +14,4 @@
 |**Vápenatý grit**|3 %|pomáha tráveniu zŕn v žalúdku|
 |**Nutrimix pre nosnice**|2 %|doplnok vitamínov a minerálov (aj keď neznašajú)|
 |**Spolu**|100 %|—|
+
